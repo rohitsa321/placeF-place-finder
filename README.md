@@ -11,7 +11,7 @@ with accurate information and can also see pictures of it. If any user know any 
 it with location and can also upload pictures of it. And By mistake any user can post worng information, he/she can update or delete.
 
 ### Tech stack
-Reactjs, HTML, CSS, Express, MongoDB
+Reactjs, HTML, CSS, Express, MongoDB, Google map api
 
 ### Some Screenshots
 
