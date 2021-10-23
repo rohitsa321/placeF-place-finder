@@ -6,9 +6,9 @@ about that location.
 
 
 ### Overview
-PlaceF is a web project where users can find the best camping locations which are surrounded by nature. Users can easily find camping locations 
-with accurate information and can also see pictures of it. If any user know any exceptional location for camping then, they can create their account and can post 
-it with location and can also upload pictures of it. And By mistake any user can post worng information, he/she can update or delete.
+PlaceF is a web project where users can find the best camping locations which are surrounded by nature. Users can easily find camping locations with accurate information and can 
+also see pictures of it. If any user knows any exceptional location for camping then, they can create their account and can post it with location, and can also upload pictures 
+of it. And By mistake any user can post wrong information, he/she can update or delete it.
 
 ### Tech stack
 Reactjs, HTML, CSS, Express, MongoDB, Google map api
